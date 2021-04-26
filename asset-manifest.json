@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/FastLink_Limited/static/css/main.b34663f4.chunk.css",
-    "main.js": "/FastLink_Limited/static/js/main.2741b674.chunk.js",
-    "main.js.map": "/FastLink_Limited/static/js/main.2741b674.chunk.js.map",
+    "main.js": "/FastLink_Limited/static/js/main.c2662292.chunk.js",
+    "main.js.map": "/FastLink_Limited/static/js/main.c2662292.chunk.js.map",
     "runtime-main.js": "/FastLink_Limited/static/js/runtime-main.db71c034.js",
     "runtime-main.js.map": "/FastLink_Limited/static/js/runtime-main.db71c034.js.map",
-    "static/js/2.d89a92b8.chunk.js": "/FastLink_Limited/static/js/2.d89a92b8.chunk.js",
-    "static/js/2.d89a92b8.chunk.js.map": "/FastLink_Limited/static/js/2.d89a92b8.chunk.js.map",
+    "static/js/2.b7de7ba4.chunk.js": "/FastLink_Limited/static/js/2.b7de7ba4.chunk.js",
+    "static/js/2.b7de7ba4.chunk.js.map": "/FastLink_Limited/static/js/2.b7de7ba4.chunk.js.map",
     "index.html": "/FastLink_Limited/index.html",
     "static/css/main.b34663f4.chunk.css.map": "/FastLink_Limited/static/css/main.b34663f4.chunk.css.map",
-    "static/js/2.d89a92b8.chunk.js.LICENSE.txt": "/FastLink_Limited/static/js/2.d89a92b8.chunk.js.LICENSE.txt",
+    "static/js/2.b7de7ba4.chunk.js.LICENSE.txt": "/FastLink_Limited/static/js/2.b7de7ba4.chunk.js.LICENSE.txt",
     "static/media/Signup.css": "/FastLink_Limited/static/media/masthead_bg.bd2f9fb0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.db71c034.js",
-    "static/js/2.d89a92b8.chunk.js",
+    "static/js/2.b7de7ba4.chunk.js",
     "static/css/main.b34663f4.chunk.css",
-    "static/js/main.2741b674.chunk.js"
+    "static/js/main.c2662292.chunk.js"
   ]
 }
